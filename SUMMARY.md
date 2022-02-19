@@ -1,4 +1,6 @@
 # Table of contents
 
-* [1장: 리액트 시작](README.md)
-* [2장: JSX](2-jsx.md)
+* [리액트를 다루는 기술](README.md)
+  * [1장: 리액트 시작](undefined/1.md)
+  * [2장: JSX](undefined/2-jsx.md)
+  * [3장: 컴포넌트](undefined/3.md)
